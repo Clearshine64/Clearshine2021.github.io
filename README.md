@@ -1,2 +1,0 @@
-# FortressDAO
-Fork presale site
